@@ -83,13 +83,11 @@ class MessageBubble extends StatelessWidget {
                         bottomRight: const Radius.circular(12),
                       ),
                     ),
-
                     constraints: const BoxConstraints(maxWidth: 200),
                     padding: const EdgeInsets.symmetric(
                       vertical: 10,
                       horizontal: 14,
                     ),
-                    // Margin around the bubble.
                     margin: const EdgeInsets.symmetric(
                       vertical: 4,
                       horizontal: 12,

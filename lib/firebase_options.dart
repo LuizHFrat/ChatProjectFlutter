@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: '#',
+    apiKey: '###',
     appId: '#',
     messagingSenderId: '989114150742',
     projectId: 'chat-app-8fb90',
